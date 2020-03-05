@@ -1,0 +1,26 @@
+{
+  "name": "ariketa1",
+  "version": "1.0.0",
+  "description": "nodeserver",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iker",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "4.16.4",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.1.0",
+    "mongoose": "^5.3.11",
+    "mtgsdk": "^0.4.2",
+    "socket.io": "2.2.0",
+    "url": "^0.11.0",
+    "validator": "^10.9.0"
+  }
+}
