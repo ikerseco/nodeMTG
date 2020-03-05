@@ -17,7 +17,7 @@
     "express": "4.16.4",
     "express-handlebars": "^3.0.0",
     "handlebars": "^4.1.0",
-    "mongoose": "^5.3.11",
+    "mongoose": "^5.7.5",
     "mtgsdk": "^0.4.2",
     "socket.io": "2.2.0",
     "url": "^0.11.0",
