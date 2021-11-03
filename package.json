@@ -21,6 +21,6 @@
     "mtgsdk": "^0.4.2",
     "socket.io": "2.2.0",
     "url": "^0.11.0",
-    "validator": "^10.9.0"
+    "validator": "^13.7.0"
   }
 }
